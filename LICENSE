@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2025 linxiajin08
+Copyright (c) 2024 WeChat-MCP-Server
+
+IMPORTANT DISCLAIMER:
+This software involves WeChat automation and carries significant risks. 
+Use at your own risk and responsibility. The developers disclaim all liability.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,10 +16,28 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ENHANCED DISCLAIMER:
+The authors, contributors, and distributors of this software are not liable for any:
+- Account suspensions, bans, or restrictions
+- Data loss or corruption
+- Privacy breaches or security incidents
+- Legal consequences or regulatory violations
+- Commercial losses or business interruptions
+- WeChat platform policy violations
+- Automated behavior detection or penalties
+- Third-party service disruptions
+- Technical failures or system incompatibilities
+- Any direct, indirect, incidental, special, or consequential damages
+
+COMMERCIAL USE WARNING:
+This MIT license legally permits commercial use, however:
+- Commercial use of WeChat automation tools carries significant risks
+- Users must assess legal risks before commercial deployment
+- Ensure compliance with local laws and regulations
+- Respect WeChat's terms of service and commercial policies
+- Consult legal professionals for commercial applications
+- Accept full responsibility for all commercial use risks
+- The software is provided "AS IS" without warranty for commercial purposes
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND 
+AGREE TO ASSUME ALL RISKS AND RESPONSIBILITIES ASSOCIATED WITH ITS USE.
